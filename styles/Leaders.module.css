@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contentContainer {
+    background-image: url("../public/images/desktop/image-interactive.jpg");
+    background-repeat: no-repeat;
+    width: 90vw;
+    height: 85vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.textContainer {
+    width: 55%;
+    background: white;
+    padding: 20px 30px;
+}
+
+.leaders {
+    color: black;
+    font-weight: lighter;
+    font-size: 3.5rem;
+}
+
+.discription {
+    color: gray;
+    line-height: 25px;
+}
+
+
+
+
+

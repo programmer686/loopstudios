@@ -1,0 +1,43 @@
+.navContainer {
+    width: 100vw;
+    height: 25vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 5%;
+}
+
+
+
+.linkContainer {
+    display: flex;
+    justify-content: space-between;
+    width: 30vw;
+    padding: 0;
+}
+
+.links {
+    color: white;
+}
+
+.logo {
+    color: white;
+}
+
+.sectionTwo {
+    width: 25vw;
+}
+
+.mediaContainer {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.rights {
+    color: gray;
+    font-size: 13px;
+    font-weight: lighter;
+}
